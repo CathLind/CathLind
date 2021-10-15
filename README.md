@@ -1,6 +1,6 @@
-#✨ Wellcome, I’m Catherine. ✨<br>
+# ✨Wellcome, I’m Catherine. ✨<br>
 Writer, negotiator, purchaser, entrepreneur, and programmer… The list is long. <br>
-##When I started to program:<br>
+## When I started to program:<br>
 ⚡ the mainframe was in the basement, shielded behind yellow-black-striped tape on the walls. You needed special permission to leave the elevator<br>
 ⚡ IT was a word no-one heard about and the word computer made the most hardend CEO shiver<br>
 ⚡ The two main questions you where asked were; "do we really need that?" and "will it explode?"<br>
@@ -11,7 +11,7 @@ Writer, negotiator, purchaser, entrepreneur, and programmer… The list is long.
 When I programmed my first mobile solution, the mobility was a large truck 🚚 Most of it was battery capacity🔋🔋🔋 a small part a computer💻 the price tag buys a small house 🏠 today. But, we felt like we where braking barriers, new frontiers🚀<br>
 No, I'm not ancient, I just started early 😎<br>
 <br>
-##It changed a lot since then<br>
+## It changed a lot since then<br>
 Regardless of what I have done over the years; I always return to coding. It's a tranquility🙏 in it that I like.<br>
 I’m a big Drupal fan, and been in the Drupal world since vers 4. So everything you find here is somehow connected to a Drupal project.<br>
 <br>
