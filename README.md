@@ -1,6 +1,6 @@
 # ✨Wellcome, I’m Catherine. ✨<br>
 Writer, negotiator, purchaser, entrepreneur, and programmer… The list is long. <br>
-## When I started to program:<br>
+## When I started to code:<br>
 ⚡ the mainframe was in the basement, shielded behind yellow-black-striped tape on the walls. You needed special permission to leave the elevator<br>
 ⚡ IT was a word no-one heard about and the word computer made the most hardend CEO shiver<br>
 ⚡ The two main questions you where asked were; "do we really need that?" and "will it explode?"<br>
