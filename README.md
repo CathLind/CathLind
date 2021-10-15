@@ -1,4 +1,4 @@
-# ✨Wellcome, I’m Catherine. ✨<br>
+# ✨Welcome, I’m Catherine. ✨<br>
 Writer, negotiator, purchaser, entrepreneur, and programmer… The list is long. <br>
 ## When I started to code:<br>
 ⚡ the mainframe was in the basement, shielded behind yellow-black-striped tape on the walls. You needed special permission to leave the elevator<br>
